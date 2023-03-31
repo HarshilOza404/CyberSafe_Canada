@@ -1,0 +1,24 @@
+Contribution Guidelines
+We welcome contributions to CyberSafe! By contributing to this project, you agree to follow our code of conduct (see CODE_OF_CONDUCT.md) and the guidelines outlined below.
+
+How to Contribute
+Fork the repository to your own GitHub account.
+Clone the repository to your local machine.
+Create a new branch for your contribution.
+Make your changes and commit them with a clear commit message.
+Push your changes to your fork.
+Submit a pull request to the main CyberSafe repository.
+
+
+Contribution Guidelines
+Please ensure that your contribution aligns with the goals and objectives of CyberSafe.
+Before making significant changes, please discuss your proposed changes in an issue to ensure they align with the project vision and goals.
+Please write clear commit messages that describe your changes.
+Please ensure that your code is well-documented and adheres to our coding conventions.
+Please write unit tests for your code and ensure that all tests pass before submitting a pull request.
+If you are submitting a new feature, please include tests and update the documentation as necessary.
+If you are fixing a bug, please include a test that reproduces the bug, as well as a description of the steps to reproduce the bug.
+Code of Conduct
+CyberSafe is committed to fostering a welcoming and inclusive community. Please review our code of conduct (see CODE_OF_CONDUCT.md) before contributing to this project.
+
+Thank you for contributing to CyberSafe!
