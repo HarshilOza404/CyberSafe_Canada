@@ -1,23 +1,26 @@
-# CyberSafe_Canada
+##############CyberSafe_Canada###############
 
-CyberSafe
-CyberSafe is a project designed to promote cybersecurity awareness and education among individuals and organizations. Our project aims to provide a platform for users to learn about common cyber threats and how to protect themselves and their information online.
+CyberSafe is a project aimed at simplifying the process of achieving CyberSecure certification for organizations and individuals. Our project provides easy-to-use templates and tools to help you assess your readiness for CyberSecure certification.
 
 Features
-Comprehensive information on common cyber threats, such as phishing, malware, and social engineering.
-Tips and best practices for securing personal and sensitive information online.
-Interactive quizzes and assessments to test your cybersecurity knowledge.
-Resources for reporting cyber incidents and getting help in case of a cyber attack.
+Simplified templates for CyberSecure certification
+Readiness assessment tool to gauge your level of preparedness for CyberSecure certification
+Easy-to-use interface for a seamless user experience
 Getting Started
-To get started with CyberSafe, simply visit our website at [insert website URL here]. You can browse our resources and take our quizzes without creating an account, but creating an account will allow you to track your progress and access additional features.
+To use our simplified templates and readiness assessment tool, follow these steps:
 
+Clone the CyberSafe repository to your local machine.
+Navigate to the cloned repository's directory.
+Open the "templates" folder to access the simplified templates.
+Use the readiness assessment tool to gauge your level of preparedness for CyberSecure certification.
 Contributing
-We welcome contributions to our project! If you're interested in contributing, please check out our Contribution Guidelines for more information.
+We welcome contributions to our project! To contribute, please follow these steps:
 
-Support
-If you have any questions or issues with CyberSafe, please reach out to us at [insert contact email here].
+Fork the CyberSafe repository.
+Create a new branch for your changes.
+Make your changes and commit them.
+Push your changes to your forked repository.
+Submit a pull request to merge your changes into the main CyberSafe repository.
 
-License
-CyberSafe is licensed under the [insert license name here] license. See the LICENSE.md file for details.
-
-Thank you for your interest in CyberSafe! We hope you find our project helpful in promoting cybersecurity awareness and education.
+Contact Us
+If you have any questions or feedback, please reach out to us at contact@cybersafe.com.
