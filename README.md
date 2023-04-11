@@ -24,4 +24,4 @@ We welcome contributions to our project! To contribute, please follow these step
 - Submit a pull request to merge your changes into the main CyberSafe repository.
 
 ## Contact Us
-If you have any questions or feedback, please reach out to us at ### SUPPORT@CYBERSAFE.SITE.
+If you have any questions or feedback, please reach out to us at SUPPORT@CYBERSAFE.SITE.
