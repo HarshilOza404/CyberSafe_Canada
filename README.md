@@ -9,6 +9,7 @@ Features
 
 
 Getting Started
+>
 To use our simplified templates and readiness assessment tool, follow these steps:
 1.Clone the CyberSafe repository to your local machine.
 2.Navigate to the cloned repository's directory.
@@ -16,6 +17,7 @@ To use our simplified templates and readiness assessment tool, follow these step
 4.Use the readiness assessment tool to gauge your level of preparedness for CyberSecure certification.
 
 Contributing
+>
 We welcome contributions to our project! To contribute, please follow these steps:
 1.Fork the CyberSafe repository.
 2.Create a new branch for your changes.
@@ -24,4 +26,4 @@ We welcome contributions to our project! To contribute, please follow these step
 5.Submit a pull request to merge your changes into the main CyberSafe repository.
 
 Contact Us
-If you have any questions or feedback, please reach out to us at SUPPORT@CYBERSAFE.SITE.
+>If you have any questions or feedback, please reach out to us at SUPPORT@CYBERSAFE.SITE.
