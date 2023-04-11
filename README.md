@@ -1,4 +1,4 @@
-##############CyberSafe_Canada###############
+#CyberSafe_Canada#
 
 CyberSafe is a project aimed at simplifying the process of achieving CyberSecure certification for organizations and individuals. Our project provides easy-to-use templates and tools to help you assess your readiness for CyberSecure certification.
 
@@ -11,7 +11,7 @@ Features
 Getting Started
 >To use our simplified templates and readiness assessment tool, follow these steps:
 >1.Clone the CyberSafe repository to your local machine.
->/n2.Navigate to the cloned repository's directory.
+>2.Navigate to the cloned repository's directory.
 >3.Open the "templates" folder to access the simplified templates.
 >4.Use the readiness assessment tool to gauge your level of preparedness for CyberSecure certification.
 
